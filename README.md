@@ -1,6 +1,6 @@
 Project Name: Crawl news & information websites & anticipate the likelihood of its virality. 
 
-Project By:Abhilash Banerjee
+Project By:SUNIL KUMAR SWAIN
 
 # News crawler
 
