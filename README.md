@@ -8,4 +8,4 @@ This application aims to crawl websites of news websites with the goal of fetchi
 
 ## End goal
 
-After collecting the news, it saves all the information in csv format,and then tries to predict its virality.
+After  collecting the news, it saves all the information in csv format,and then tries to predict its virality.
